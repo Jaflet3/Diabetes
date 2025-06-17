@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+pandas
+numpy
+from sklearn.linear_model import LogisticRegression
